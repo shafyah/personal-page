@@ -10,7 +10,7 @@ This is a simple personal website created as part of the **Smart Methods trainin
 ##  Live Site
 
 Visit the website here:  
-🔗 [https://shafyh.github.io/my-profile/]([https://shafyh.github.io/my-profile/)]
+🔗[https://shafyh.github.io/my-profile/](https://shafyah.github.io/personal-page/)
 
 ##  Notes
 
